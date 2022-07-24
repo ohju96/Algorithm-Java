@@ -1,2 +1,5 @@
-# Algorithm-Java
-Algorithm-Java
+# 🎮Algorithm-Java
+## 👨🏻‍🏫 안내
+- 코딩 테스트 대비 `Java`로 알고리즘 문제플 풀어보고 코드를 저장합니다.
+- 폴더는 알고리즘 문제 풀이 사이트 기준으로 구분합니다.
+- 문제 풀이 체크는 [여기](https://velog.io/@ohju96/Algorithm)에서 확인할 수 있습니다.
