@@ -37,7 +37,7 @@ public class Java1541 {
             } else {
                 result -= temp;
             }
-            System.out.println(result);
         }
+        System.out.println(result);
     }
 }
